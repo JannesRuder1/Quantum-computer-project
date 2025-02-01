@@ -1,4 +1,4 @@
-# Quantencomputer, Algorithmen und das OAM
+ # Quantencomputer, Algorithmen und das OAM
 
 **Autoren**: Jannes Ruder, Johann Wischner  
 
@@ -16,18 +16,25 @@ Quantencomputer sind eine revolutionäre Technologie, die die Grenzen der klassi
 
 ## Projekt Ziele
 
+- Das Projekt umweltfreundlicher zu gestalten
+- Algorithmen auf unseren Quantencomputer rechnen zu lassen
+- Eine Theoretische Darstellung vom Deutsch-Jozsa-Algorithmus zu entwickeln
+- Zu beweisen, dass unser universelles Set  auch auf optischen Quantencomputern mit Laserlicht laufen kann
+- Die Umsetzung der OAM basierten Qubits
+- Die kostengünstigere Gestaltung von Quantencomputern
+
 ---
 
-## OAM (Orbital Angular Momentum)
-Nutzung von Licht mit topologischer Ladung für leistungsstarke Berechnungen Projektziele
-Umweltfreundlichere Gestaltung von Quantencomputern
-Implementierung von Algorithmen auf optischen Quantencomputern
-Theoretische Darstellung des Deutsch-Jozsa-Algorithmus
-Nachweis der Funktionsfähigkeit universeller logischer Gatter auf Laserlicht-basierten Quantencomputern
-Kostengünstigere Hardwareentwicklung für Quantencomputer
-Implementierte Algorithmen
-Deutsch-Algorithmus
-Der Deutsch-Algorithmus prüft, ob eine binäre Funktion konstant oder balanciert ist. Klassische Computer benötigen zwei Abfragen, während ein Quantencomputer dies mit nur einer Abfrage löst.
+## Deutsch-Algorithmus
+Der Deutsch-Algorithmus ist ein Algorithmus, mit welchem wir die schnelle Verarbeitung des Quantencomputers vorführen. Ziel ist es festzustellen, ob eine binäre Funktion konstant oder balanciert ist.
+
+#### Konstant
+- immer 0 oder immer 1
+
+#### Balanciert
+- gleich viele 0 und 1 im Ergebnis
+- z.B.: f(x) = 0 oder f(x) = 1
+
 
 ---
 
