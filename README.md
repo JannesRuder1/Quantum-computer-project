@@ -5,13 +5,16 @@
 ---
 
 ## Einleitung  
-Quantencomputer sind eine revolutionäre Technologie, die die Grenzen der klassischen Informatik sprengen. Basierend auf den Prinzipien der Quantenmechanik versprechen sie Lösungen für komplexe Probleme, die für klassische Computer unlösbar sind. Sie sind bis zu 
-**10^14 bis 10^15 mal schneller** als herkömmliche Computer. Wichtige Konzepte dabei sind:
+Quantencomputer sind eine revolutionäre Technologie, die die Grenzen der klassischen Informatik sprengen. Basierend auf den Prinzipien der Quantenmechanik bieten und versprechen sie Lösungen für komplexe Probleme, die für klassische Computer unlösbar sind. Sie sind bis zu **10^14 bis 10^15 mal schneller** als herkömmliche Computer. Wichtige Konzepte dabei sind:
 
 #### Superposition: 
 - Gleichzeitige Zustände der Qubits
 #### Verschränkung:
-- Verknüpfung von Qubits über Distanzen hinweg
+- Verknüpfung von Qubits auch über Distanzen hinweg
+
+---
+
+## Projekt Ziele
 
 ---
 
@@ -40,10 +43,10 @@ Der De RO Beweis aus dem Jahr 2021 bestätigt die praktische Umsetzung von Gatte
 ---
 
 ## Ergebnisse und Diskussion
-Die Nutzung von Laserlicht bietet bedeutende Vorteile in Bezug auf Lichtgeschwindigkeit und Energieeffizienz.
+Die Nutzung von Laserlicht bietet bedeutende Vorteile in Bezug auf Rechengeschwindigkeit und Energieeffizienz.
 Quantencomputer mit Laserlicht verbrauchen wesentlich weniger Energie als herkömmliche Computer.
 
 ---
 
 ## Ausblick
-Zukünftige Schnittstellen zwischen klassischen und Quantencomputern ermöglichen hybride Rechenansätze, z. B. durch Quanten-Rechenkarten.
+Zukünftige Schnittstellen zwischen klassischen und Quantencomputern ermöglichen vielfältige, vernetzte, flexible und schnelle Rechenverfahren, z. B. durch Quanten-Rechenkarten, z.B. auf PCs.
