@@ -1,6 +1,10 @@
  # Quantencomputer, Algorithmen und das OAM
 
-**Autoren**: Jannes Ruder, Johann Wischner  
+**Autoren**: Jannes Ruder
+
+---
+## Links zu veröfentlichungen:
+https://ojs.dpg-physik.de/index.php/phydid-b/article/view/1464
 
 ---
 
